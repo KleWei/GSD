@@ -12,6 +12,6 @@ References
 
 Ponocny, I., Weismayer, C., Dressler, S., & Stross, B. (2015). The MODUL study of living conditions (Technical Report). Vienna, Austria: MODUL University. Retrieved from https://www.modul.ac.at/uploads/files/user_upload/Technical_Report_-_The_MODUL_study_of_living_conditions.pdf
 
-Ponocny, I., Weismayer, C., Dressler, S., & Stross, B. (2016). Are most people happy? About the meaning of life satisfaction ratings. Journal of Happiness Studies, 17(6), 2635�2653. doi:https://doi.org/10.1007/s10902-015-9710-0.
+Ponocny, I., Weismayer, C., Dressler, S., & Stross, B. (2016). Are most people happy? About the meaning of life satisfaction ratings. Journal of Happiness Studies, 17(6), 2635-2653. doi:https://doi.org/10.1007/s10902-015-9710-0.
 
 RStudio Team. (2019). Rstudio: Integrated Development Environment for R. Retrieved from http://www.rstudio.com/
