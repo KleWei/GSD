@@ -22,14 +22,21 @@
 # III. Transform t-value into a p value to obtain a test decision
 ##################################################################
 #
-# This R script and the corresponding data set applied in
-# the article "Weigl, K., & Ponocny, I. (2019). Group 
-# Sequential Designs Applied in Psychological Research. 
-# Methodology, (x), xx-xx." are freely available at the
-# GitHub repository:
+# This R script and the corresponding data set applied in the article 
+# 
+# Weigl, K., & Ponocny, I. (2020). Group Sequential Designs Applied in
+# Psychological Research. Methodology - European Journal of Research 
+# Methods for the Behavioral and Social Sciences, 16(1), 75-91. 
+# https://doi.org/10.5964/meth.2811
+#
+# are freely available at the GitHub repository:
 # https://github.com/StatisticalPsychology/GSD 
 #
-# Copyright 2019 Dr. Klemens Weigl.
+# and on PsychArchives:
+# [data] https://doi.org/10.23668/psycharchives.2784
+# [code] https://doi.org/10.23668/psycharchives.2785
+#
+# Author Klemens Weigl.
 ##################################################################
 
 
