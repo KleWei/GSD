@@ -36,7 +36,7 @@
 # [data] https://doi.org/10.23668/psycharchives.2784
 # [code] https://doi.org/10.23668/psycharchives.2785
 #
-# Author Klemens Weigl.
+# Author of this R script: Klemens Weigl.
 ##################################################################
 
 
