@@ -71,7 +71,7 @@ RStudio.Version()       # obtain citation for RStudio (if used)
 # approaches is provided with the following parameters:
 # "k=2" for two stages, "test.type=2" for two-sided testing, 
 # "alpha=.025" for the lower and upper boundaries (yielding an 
-# overall alpha=.05), "beta=.1" (for 90 % power), (Note: alpha=.025 
+# overall alpha=.05), "beta=.1" (for 90 % power; Note: alpha=.025 
 # and beta=.1 are the default values and are only specified for 
 # didactic reasons and may be altered), "sfu" specifies 
 # the group sequential approach, and "sfupar" the parameter of the 
@@ -127,7 +127,7 @@ poc2p90$lower    # lists all lower Z-boundaries of the chosen approach,
 # K = 2
 # beta = .1 (90% power)
 obf2p90 <- gsDesign(k=2, test.type=2, sfu="OF")
-obf2p90           # shows the group sequential O'Brien and Fleming design
+obf2p90             # shows the group sequential O'Brien and Fleming design
 obf2p90$n.I         # lists the sample size inflation factors (IF)
 obf2p90$upper$bound # lists the upper Z boundaries of both stages
 obf2p90$lower$bound # lists the lower Z boundaries of both stages
@@ -174,7 +174,7 @@ plot(wt2p90)       # plots the rejection boundaries
 
 library(GroupSeq)    # loads GroupSeq
 groupseq()           # loads the GroupSeq-GUI as default
-# like groupseq(mode="g")
+                     # like groupseq(mode="g")
 groupseq(mode="c")   # to work with the console
 ?groupseq            # opens the R documentation of GroupSeq
 
